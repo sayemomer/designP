@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter.iml" filepath="$PROJECT_DIR$/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cipher.iml" filepath="$PROJECT_DIR$/Cipher.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShoppingCart.iml" filepath="$PROJECT_DIR$/ShoppingCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatePractive.iml" filepath="$PROJECT_DIR$/StatePractive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseRegistration.iml" filepath="$PROJECT_DIR$/courseRegistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crpreq.iml" filepath="$PROJECT_DIR$/crpreq.iml" />
       <module fileurl="file://$PROJECT_DIR$/designP.iml" filepath="$PROJECT_DIR$/designP.iml" />
     </modules>
   </component>

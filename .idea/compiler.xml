@@ -6,13 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ShoppingCart" />
+        <module name="Adapter" />
         <module name="Cipher" />
+        <module name="ShoppingCart" />
+        <module name="courseRegistration" />
+        <module name="crpreq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Adapter" target="17" />
       <module name="Cipher" target="17" />
+      <module name="courseRegistration" target="17" />
+      <module name="CRpreq" target="17" />
+      <module name="crpreq" target="17" />
       <module name="ShoppingCart" target="17" />
+      <module name="StatePractive" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,7 +5,17 @@
       <list>
         <option value="$PROJECT_DIR$/ShoppingCart/pom.xml" />
         <option value="$PROJECT_DIR$/Cipher/pom.xml" />
+        <option value="$PROJECT_DIR$/Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/courseRegistration/pom.xml" />
+        <option value="$PROJECT_DIR$/CRpreq/pom.xml" />
+        <option value="$PROJECT_DIR$/crpreq/pom.xml" />
+        <option value="$PROJECT_DIR$/StatePractive/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/CRpreq/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
