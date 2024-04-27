@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/CRpreq/pom.xml" />
         <option value="$PROJECT_DIR$/crpreq/pom.xml" />
         <option value="$PROJECT_DIR$/StatePractive/pom.xml" />
+        <option value="$PROJECT_DIR$/EmailAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/InventoryAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/VendingMachineState/pom.xml" />
+        <option value="$PROJECT_DIR$/PaymentStrategy/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

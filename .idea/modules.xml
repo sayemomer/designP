@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter.iml" filepath="$PROJECT_DIR$/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cipher.iml" filepath="$PROJECT_DIR$/Cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailAdapter.iml" filepath="$PROJECT_DIR$/EmailAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventoryAdapter.iml" filepath="$PROJECT_DIR$/InventoryAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentStrategy.iml" filepath="$PROJECT_DIR$/PaymentStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShoppingCart.iml" filepath="$PROJECT_DIR$/ShoppingCart.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatePractive.iml" filepath="$PROJECT_DIR$/StatePractive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachineState.iml" filepath="$PROJECT_DIR$/VendingMachineState.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseRegistration.iml" filepath="$PROJECT_DIR$/courseRegistration.iml" />
       <module fileurl="file://$PROJECT_DIR$/crpreq.iml" filepath="$PROJECT_DIR$/crpreq.iml" />
       <module fileurl="file://$PROJECT_DIR$/designP.iml" filepath="$PROJECT_DIR$/designP.iml" />

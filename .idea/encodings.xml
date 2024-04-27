@@ -3,13 +3,21 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Adapter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Adapter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CRpreq/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CRpreq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Cipher/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Cipher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmailAdapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmailAdapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InventoryAdapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InventoryAdapter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StatePractive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StatePractive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VendingMachineState/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VendingMachineState/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/courseRegistration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/courseRegistration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crpreq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crpreq/src/main/resources" charset="UTF-8" />
   </component>
 </project>

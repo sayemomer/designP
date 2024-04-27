@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Adapter" />
-        <module name="Cipher" />
         <module name="ShoppingCart" />
+        <module name="InventoryAdapter" />
+        <module name="StatePractive" />
         <module name="courseRegistration" />
         <module name="crpreq" />
+        <module name="EmailAdapter" />
+        <module name="Adapter" />
+        <module name="Cipher" />
+        <module name="VendingMachineState" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,8 +23,12 @@
       <module name="courseRegistration" target="17" />
       <module name="CRpreq" target="17" />
       <module name="crpreq" target="17" />
+      <module name="EmailAdapter" target="17" />
+      <module name="InventoryAdapter" target="17" />
+      <module name="PaymentStrategy" target="17" />
       <module name="ShoppingCart" target="17" />
       <module name="StatePractive" target="17" />
+      <module name="VendingMachineState" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
